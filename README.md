@@ -17,3 +17,5 @@ GitHub itself spoof
 Hello i make hydra and i have found cool exploit
 
 ShurikChap said "try to spoof as me"
+
+Maven spoof (GitHub user leak omg)
