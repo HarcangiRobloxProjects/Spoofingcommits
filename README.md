@@ -15,3 +15,5 @@ scp222thj spoof prob dosent work bcz email not public
 GitHub itself spoof
 
 Hello i make hydra and i have found cool exploit
+
+ShurikChap said "try to spoof as me"
